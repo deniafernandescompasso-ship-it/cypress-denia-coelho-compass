@@ -1,0 +1,24 @@
+{
+  "name": "cypress-denia-coelho-compass",
+  "version": "1.0.0",
+  "description": "Cypress - Módulo 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deniafernandescompasso-ship-it/cypress-denia-coelho-compass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/deniafernandescompasso-ship-it/cypress-denia-coelho-compass/issues"
+  },
+  "homepage": "https://github.com/deniafernandescompasso-ship-it/cypress-denia-coelho-compass#readme",
+  "devDependencies": {
+    "cypress": "^15.18.0"
+  }
+}
